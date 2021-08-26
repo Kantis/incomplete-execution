@@ -1,0 +1,15 @@
+.gradle
+.idea
+*.iml
+*.terraform*
+
+build
+out
+
+terraform.tfstate*
+*terraform.tfstate*
+**/.terraform/
+
+
+node_modules
+.docusaurus
